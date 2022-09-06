@@ -45,7 +45,7 @@ Experienced with all stages of the development cycle for dynamic web projects. W
 
 ---
 
-<img alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<!-- <img alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
 ### Spotify Playing 🎧
 
