@@ -87,7 +87,7 @@ Experienced with all stages of the development cycle for dynamic web projects. W
     <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Pritesh0-0&color=0E9C47&style=for-the-badge">
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
-[![Pritesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pritesh0-0&theme=dracula)](https://github.com/Pritesh0-0/github-readme-activity-graph)
+<img src="(https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)" width="100%">
 
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
