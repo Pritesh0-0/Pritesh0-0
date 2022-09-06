@@ -12,7 +12,7 @@ An aspiring Full-stack developer with a specialization in MERN stack with a pass
 Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including HTML5, JavaScript, CSS
 
 
-- 💼 Some work for me? do reach, ✔️[Linkedin](https://www.linkedin.com/in/pritesh-patil-4782441ba/)
+- 💼 Some work for me? Do reach, ✔️[Linkedin](https://www.linkedin.com/in/pritesh-patil-4782441ba/)
 ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=patilpritesh347@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
 - 💬 Ask me about anything, I am happy to help;
  <img align="right" alt="GIF" clear = "both" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/7ec6640a07237e091f3fe6a946e41373-1647549880/philippegend%2010x%20animated/create-professional-pixel-art-illustrations-and-animations.gif" width="500" height="320" />
@@ -86,9 +86,6 @@ Experienced with all stages of the development cycle for dynamic web projects. W
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Pritesh0-0?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
     <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Pritesh0-0&color=0E9C47&style=for-the-badge">
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
-<img src="(https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)" width="100%">
-
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Pritesh0-0&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
@@ -106,10 +103,3 @@ Experienced with all stages of the development cycle for dynamic web projects. W
 <!--🪳ROACH&🕷️SPIDER--> 
 <p align="left">
 <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
- 
-
-
-
-
-
-
